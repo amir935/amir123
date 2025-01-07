@@ -44,6 +44,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<provider>MC</provider>
 						<environment>${environment}</environment>
+						<server>anypoint-connected-app<server>
 						<target>${targetName}</target>
 						<muleVersion>${app.runtime}</muleVersion>
 						<username>Amir122323</username>
